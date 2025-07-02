@@ -32,9 +32,8 @@ CSS: Styles the game elements and overall user interface.
 The project's code is contained within a single HTML file.  This makes it straightforward, but for larger projects, a more modular structure (e.g., separating HTML, CSS, and JavaScript into multiple files) would be beneficial.
 
 ```
-.
-└── Pong-Game-1acb00a1d495af79fe881503778348ce90aabad3
-    └── Pong_For_All_Screen.html
+/Pong_Game
+    └── index.html
 
 ```
 
